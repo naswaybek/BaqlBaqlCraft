@@ -144,11 +144,11 @@ class Mob(Entity):
             self.look_at(player.position)
         else:
             enemy_sound.stop()
-# Random spawn of Miras
+# Random spawn of Miras nearby player
 def spawn_mobs():
     for _ in range(3):
-        x = random.randint(-10, 10)
-        z = random.randint(-10, 10)
+        x = random.randint(int(player.x) - 10, int(player.x) + 10)
+        z = random.randint(int(player.z) - 10, int(player.z) + 10)
         mobs.append(Mob(position=(x, 1, z)))
 
 # Some kind of inventory. I'm too lazy for good inventory system :D

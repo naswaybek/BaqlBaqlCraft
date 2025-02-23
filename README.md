@@ -4,23 +4,52 @@
 
 
 
+
+
 Minecraft clone for school project
+
+
+
+
+
 
 
 Key bindings:
 
 WASD - Player movement
+
 Mouse - Camera movement
+
 Right Mouse - Breaking block if block selected / Attack if sword selected
+
 Left Mouse - Placing selected mouse
+
 1 - Grass Block
+
 2 - Dirt Block
+
 3 - Stone Block
+
 4 - Brick block
+
 5 - Wood block
+
 6 - Sword
+
 Q - Exit game
+
 ESC - Exit game
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -6,17 +6,21 @@
 
 
 
+
 Minecraft clone for school project
-
-
-
-
-
-
+|
+|
+|
+|
+|
+|
+v
 
 Key bindings:
 
 WASD - Player movement
+
+Space - Jump
 
 Mouse - Camera movement
 

@@ -40,7 +40,7 @@ ESC - Exit game
 
 
 
-btw it is school project 
+btw it is a school project 
 
 
 
